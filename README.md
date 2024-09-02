@@ -10,5 +10,5 @@ How It Works The program evaluates the password based on the following criteria:
 Length: Password should be at least 8 characters long.
 Uppercase Letters: Password should contain at least one uppercase letter.
 Lowercase Letters: Password should contain at least one lowercase letter.
-Numbers: Password should contain at least one numeric digit.
+Numbers: Password should contain at least one numeric digit. 
 Special Characters: Password should contain at least one special character (e.g., !@#$%^&*).
